@@ -15,7 +15,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from docopt import docopt
 
-__version__ = '1.0.0'
+__version__ = '1.0.2'
 __author__ = 'Amir Kiperwas'
 
 # constants
